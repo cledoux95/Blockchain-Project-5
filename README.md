@@ -43,15 +43,13 @@ node app.js
 
 ```
 
-
-
-```
 ## Deployment
 
 To deploy to Ethereum Rinkeby run:
 
 ``` 
 truffle migrate --reset --network rinkeby
+```
 
 ## Built With
 
